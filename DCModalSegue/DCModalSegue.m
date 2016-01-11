@@ -8,7 +8,8 @@
 
 #import "DCModalSegue.h"
 #import <QuartzCore/QuartzCore.h>
-#define kModalSeguePushedBackAnimationDuration 0.1
+
+#define kModalSeguePushedBackAnimationDuration 0.3
 #define kModalSegueBringForwardAnimationDuration 0.3
 
 @interface DCModalViewController : UIViewController
